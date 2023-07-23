@@ -1,0 +1,1 @@
+To add new Hex codes just change power(), select(), ... functions 
